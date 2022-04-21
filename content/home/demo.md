@@ -19,7 +19,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: korcula4.png
+    image: korcula4.jpg
     image_darken: 1
     image_parallax: true
     image_position: left
