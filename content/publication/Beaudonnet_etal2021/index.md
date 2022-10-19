@@ -12,11 +12,11 @@ authors:
 - Damien Pennetreau
 - Tiago Silva
 - Virginie Van Ingelgom 
-date: "2021-03-24"
+date: "2022-01-01"
 doi: https://doi.org/10.3917/poeu.pr1.0004
 featured: false
 projects: []
-publication: '*Politique Européenne* (Early view)'
+publication: '*Politique Européenne* (2022)'
 publication_short: ""
 publication_types:
 - "2"
