@@ -1,6 +1,5 @@
 ---
-bio: My research interests include party politics, political behaviour, political psychology and democracy. 
-  matter.
+bio: My research interests include party politics, political behaviour, political psychology and democracy.
 education:
   courses:
   - course: Master of Research
