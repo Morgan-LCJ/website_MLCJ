@@ -32,9 +32,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Morgan-LCJ
-- icon = google-scholar
-  icon_pack = ai
-  link = https://scholar.google.com/citations?user=JLkPcmsAAAAJ&hl=fr&oi=ao
+- icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=JLkPcmsAAAAJ&hl=fr&oi=ao"
 
 superuser: true
 title: Morgan Le Corre Juratic
