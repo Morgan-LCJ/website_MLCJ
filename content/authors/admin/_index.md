@@ -22,7 +22,7 @@ role: PhD Researcher in Political Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:morgan.lecorre@eui.eu"
+  link: "mailto:morgan.lcj@ps.au.dk"
 - display:
     header: true
   icon: twitter
