@@ -16,7 +16,7 @@ date: "2022-01-01"
 doi: https://doi.org/10.3917/poeu.pr1.0004
 featured: false
 projects: []
-publication: '*Politique Européenne* (2022)'
+publication: '*Politique Européenne*'
 publication_short: ""
 publication_types:
 - "2"
