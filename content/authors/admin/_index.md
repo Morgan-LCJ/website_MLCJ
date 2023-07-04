@@ -27,7 +27,7 @@ social:
   icon_pack: fas
   link: "mailto:morgan.lcj@ps.au.dk"
 - display:
-    header: true
+  header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
