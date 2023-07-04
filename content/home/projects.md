@@ -22,23 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Thesis - European citizens' Reaction to Party Polarization - From Partisanship to Electoral Participation
-    company: European University Institute
+
+  - title: 'DEMNORM: The Role of Elites in Shifting Democratic Social Norms'
+    company: Aarhus University
     company_url: ''
-    company_logo: EUI_2021
-    location: Florence - Italy
-    date_start: '2018-09-01'
+    company_logo: ''
+    location: Denmark
+    date_start: '2022-09-01'
     date_end: ''
-    
-  - title: 'The Politicization of the European Union - From Processes to Consequences'
-    company: RESTEP
-    company_url: ''
-    company_logo: restep
-    location: 
-    date_start: '2020-05-01'
-    date_end: ''
-    description: Co-Editor of an edited volume on the consequences of EU Politicization with Anne-Marie Houde, Thomas Laloux, Heidi Mercenier, Damien Pennetreau and Alban Versailles
-        
+    description: |2-
+        Project DEMNORM coordinated by Prof. Daniel Bischof. This part of the project aims to determine whether elites shifted democratic social norms across established democracies in the past 10 years, using a computational text analysis approach.
+
   - title: 'Fragmented Party Offer, Vote Choice and Attitude Change : a Study on Right-wing Voters in the 2022 French Presidential Elections'
     company: European University Institute
     company_url: ''
@@ -52,6 +46,25 @@ experience:
         * Voting Behaviour
         * Satisfaction with Democracy
         * Affective Polarization
+        
+  - title: 'PhD Thesis - Party Polarization and Citizens’ Electoral (de)Mobilization in European Multiparty Systems : The Role of Fear and Indifference as Political Reactions'
+    company: European University Institute
+    company_url: ''
+    company_logo: EUI_2021
+    location: Florence - Italy
+    date_start: '2018-09-01'
+    date_end: '2023-02-24'
+    
+  - title: 'The Politicization of the European Union : From Processes to Consequences'
+    company: RESTEP
+    company_url: ''
+    company_logo: restep
+    location: 
+    date_start: '2020-05-01'
+    date_end: '2023-01-01'
+    description: Co-Editor of an edited volume on the consequences of EU Politicization with Anne-Marie Houde, Thomas Laloux, Heidi Mercenier, Damien Pennetreau and Alban Versailles
+        
+
         
 
 design:
