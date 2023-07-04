@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: 'DEMNORM: Elites' role in shifting democratic social norms'
+  - title: 'DEMNORM: Elites role in shifting democratic social norms'
     company: Aarhus University
     company_url: '
     company_logo: AU_BSS
