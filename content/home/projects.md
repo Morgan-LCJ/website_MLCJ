@@ -25,7 +25,8 @@ experience:
 
   - title: 'DEMNORM: Elites role in shifting democratic social norms'
     company: Aarhus University
-    #company_url: ''
+    company_url: '
+    company_logo: AU_BSS
     location: Denmark
     date_start: '2023-09-01'
     date_end: ''
