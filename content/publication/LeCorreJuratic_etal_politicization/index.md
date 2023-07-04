@@ -7,11 +7,11 @@ authors:
 - Mariana Carmo Duarte
 - Alban Versailles
 
-date: "2022-09-01"
+date: "2023-01-01"
 doi: 
 featured: false
 projects: []
-publication: 'Forthcoming'
+publication: "*Éditions de l'Université de Bruxelles*"
 publication_short: ""
 publication_types:
 - "6"
@@ -20,7 +20,7 @@ slides: ""
 summary: ""
 tags:
 - Source Themes
-title: Eurosceptic, Polarized or Undecided? How Party Politicization May Shape the Structure of Public Attitudes Towards European Integration
+title: "CHAPTER 1 : Eurosceptic, Polarized or Undecided? How Party Politicization May Shape the Structure of Public Attitudes Towards European Integration"
 subtitle: 
 url_code: ""
 url_dataset: ""
@@ -28,7 +28,7 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://library.oapen.org/handle/20.500.12657/59861"
 url_video: ""
 ---
 
