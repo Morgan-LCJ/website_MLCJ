@@ -24,11 +24,11 @@ title: "CHAPTER 1 : Eurosceptic, Polarized or Undecided? How Party Politicizatio
 subtitle: 
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://library.oapen.org/bitstream/handle/20.500.12657/59861/The%20politicization%20of%20the%20European%20Union%20OAPEN.pdf?sequence=1&isAllowed=y"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://library.oapen.org/handle/20.500.12657/59861"
+url_source: "https://www.editions-ulb.be/en/book/?GCOI=74530100353020#h2tabDetails"
 url_video: ""
 ---
 
