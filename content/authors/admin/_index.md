@@ -2,7 +2,7 @@
 bio: My research interests include party politics, political behaviour, political psychology and democracy.
 education:
   courses:
-  - course: PhD in Political Sciences
+  - course: PhD in Political Science
     institution: European University Institute
     year: 2023
   - course: Master of Research
