@@ -6,8 +6,8 @@ authors:
 - admin
 
 
-date: "2023-06-08"
-doi: https://10.31219/osf.io/dpq7w
+date: "2024-09-03"
+doi:  https://doi.org/10.1111/1475-6765.12718
 featured: false
 projects: []
 publication: 'European Journal of Political Research'
