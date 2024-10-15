@@ -27,8 +27,7 @@ item:
 - certificate_url: ""
   date_end: "2024-06-01"
   date_start: "2024-02-01"
-  description: "Master Seminar Lecturer.
-  Lecturers: ""
+  description: "Master Seminar Lecturer. 20 students."
   organization: Aarhus University
   organization_url: https://ps.au.dk/
   title: "Party Polarization: A Challenge to European Democracies?"
