@@ -13,7 +13,7 @@ projects: []
 publication: 'European Journal of Political Research'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: ""
 slides: ""
 summary: ""
