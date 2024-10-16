@@ -28,5 +28,8 @@ url_project: ""
 url_slides: ""
 url_source: "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12718"
 url_video: ""
+links: 
+- name: "Code and Data"
+  url: "https://osf.io/xphtf/"
 ---
 
