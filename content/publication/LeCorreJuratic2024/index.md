@@ -8,7 +8,7 @@ authors:
 
 date: "2024-09-03"
 doi:  https://doi.org/10.1111/1475-6765.12718
-featured: false
+featured: true
 projects: []
 publication: 'European Journal of Political Research'
 publication_short: ""
@@ -20,7 +20,7 @@ summary: ""
 tags:
 - Source Themes
 title: "Dimensions of polarization, realignment and electoral participation in Europe: The mobilizing power of the cultural dimension" 
-url_code: ""
+url_code: "https://osf.io/xphtf/"
 url_dataset: ""
 url_pdf: "https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12718"
 url_poster: ""
@@ -28,8 +28,8 @@ url_project: ""
 url_slides: ""
 url_source: "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12718"
 url_video: ""
-links: 
-- name: "Code and Data"
-  url: "https://osf.io/xphtf/"
+#links: 
+#- name: "Code and Data"
+#  url: 
 ---
 
