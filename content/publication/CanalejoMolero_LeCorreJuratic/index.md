@@ -32,5 +32,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+links: 
+- name: "PAP"
+  url: "https://osf.io/vdzhc"
 ---
 

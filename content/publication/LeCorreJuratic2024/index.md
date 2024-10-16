@@ -8,7 +8,7 @@ authors:
 
 date: "2024-09-03"
 doi:  https://doi.org/10.1111/1475-6765.12718
-featured: true
+featured: false
 projects: []
 publication: 'European Journal of Political Research'
 publication_short: ""

@@ -28,7 +28,7 @@ url_pdf: "Bischof_et al2023.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://osf.io/dpq7w/"
+url_source: ""
 url_video: ""
 ---
 
