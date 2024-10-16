@@ -37,7 +37,7 @@ experience:
     company: "European University Institute, Aarhus University"
     company_url: ''
     company_logo: 
-    location: France
+    location: ""
     date_start: '2022-04-01'
     date_end: ''
     description: |2-
