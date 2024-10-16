@@ -12,7 +12,7 @@ date: "2023-06-08"
 doi: https://10.31219/osf.io/dpq7w
 featured: false
 projects: []
-publication: 'OSF Open Access'
+publication: 'OSF'
 publication_short: ""
 publication_types:
 - "3"
