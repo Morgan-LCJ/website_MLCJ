@@ -13,7 +13,7 @@ date: "2024-01-10"
 doi: "https://osf.io/preprints/osf/7bfka"
 featured: false
 projects: []
-publication: 'OSF'
+publication: 'OSF Preprint'
 publication_short: ""
 publication_types:
 - "3"

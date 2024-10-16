@@ -12,7 +12,7 @@ date: "2024-08-25"
 doi: https://doi.org/10.31219/osf.io/4qgh8
 featured: false
 projects: []
-publication: 'OSF'
+publication: 'OSF Preprint'
 publication_short: ""
 publication_types:
 - "3"
