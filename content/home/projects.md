@@ -33,19 +33,18 @@ experience:
     description: |2-
         Project DEMNORM coordinated by Prof. Daniel Bischof. This part of the project aims to determine whether elites shifted democratic social norms across established democracies in the past 10 years, using a computational text analysis approach.
 
-  - title: 'Fragmented Party Offer, Vote Choice and Attitude Change : a Study on Right-wing Voters in the 2022 French Presidential Elections'
-    company: European University Institute
+  - title: 'The Downstream Effects of Radical Party Entry and Polarization for Satisfaction with Democracy'
+    company: "European University Institute, Aarhus University"
     company_url: ''
-    company_logo: EUI_2021
+    company_logo: 
     location: France
     date_start: '2022-04-01'
     date_end: ''
     description: |2-
-        Project coordinated with Álvaro Canalejo Molero (EUI). This project aims to assess the effect of (radical right) new party entry on : 
+        Project in collaboration with Álvaro Canalejo Molero (EUI, University of Lucerne). This project was funded by the EUI Early Researcher Grant (ESR) 2021 and the Aarhus University Small Grant obtained in 2023, leading to two studies:
         
-        * Voting Behaviour
-        * Satisfaction with Democracy
-        * Affective Polarization
+        * The Effect of Radical Right Party Entry for Satisfaction with Democracy (see preprint "Blinded by Outgroup Hatred") building on the entry of Éric Zemmour's Party in the French System.
+        * An ongoing study assessing the severity of losers' dissent in polarized societies, building on a comparative causal inference design and an experiment in the 2024 Austrian elections. 
         
   - title: 'PhD Thesis - Party Polarization and Citizens’ Electoral (de)Mobilization in European Multiparty Systems : The Role of Fear and Indifference as Political Reactions'
     company: European University Institute
