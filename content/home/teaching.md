@@ -25,6 +25,24 @@ date_format: Jan 2006
 item:
 
 - certificate_url: ""
+  date_end: "2025-01-30"
+  date_start: "2025-01-28"
+  description: "Workshop Lecturer - Postgraduates & Faculty"
+  organization: Aarhus University
+  organization_url: https://ps.au.dk/
+  title: "Advanced Computational Text Analysis and Large Language Models"
+  url: ""
+
+- certificate_url: ""
+  date_end: "2025-06-01"
+  date_start: "2025-02-04"
+  description: "Master Seminar Lecturer. 20 students."
+  organization: Aarhus University
+  organization_url: https://ps.au.dk/
+  title: "Political Polarization: A Challenge to European Democracies?"
+  url: ""
+
+- certificate_url: ""
   date_end: "2024-06-01"
   date_start: "2024-02-01"
   description: "Master Seminar Lecturer. 20 students."
