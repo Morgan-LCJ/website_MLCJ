@@ -28,8 +28,8 @@ item:
   date_end: "2025-01-30"
   date_start: "2025-01-28"
   description: "Workshop Lecturer - Postgraduates & Faculty"
-  organization: Aarhus University
-  organization_url: https://ps.au.dk/
+  organization: Autonomous University of Barcelona (UAB)
+  organization_url: https://webs.uab.cat/grdec/
   title: "Advanced Computational Text Analysis and Large Language Models"
   url: ""
 
