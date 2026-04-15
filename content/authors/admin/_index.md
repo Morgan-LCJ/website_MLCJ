@@ -18,20 +18,19 @@ interests:
 - Political Behavior
 - Democracy
 - Mixed-Methods Design
-organizations:
-- name: Aarhus University
-  url: https://pure.au.dk/portal/en/persons/morgan-le-corre-juratic(a0240b92-f7e9-4e79-abaa-8175274082a9).html
-role: Post-doctoral Researcher in Political Science
+#organizations:
+#- name: Aarhus University
+  # url: https://pure.au.dk/portal/en/persons/morgan-le-corre-juratic(a0240b92-f7e9-4e79-abaa-8175274082a9).html
+role: Researcher - Analyst
 social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:morgan.lcj@ps.au.dk"
 - display:
     header: true
-  icon: twitter
+  icon: bluesky
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/morganlcj
+  link: https://bsky.app/profile/morganlcj.bsky.social
 - icon: github
   icon_pack: fab
   link: https://github.com/Morgan-LCJ
