@@ -43,13 +43,15 @@ superuser: true
 title: Morgan Le Corre Juratic
 ---
 
-Welcome to my page! I am a Post-doctoral researcher at Aarhus University in Denmark and was previously a PhD researcher in Political Science at the European University Institute in Florence, Italy. My research interests include party competition, political behaviour, and attitudes towards democratic institutions. 
+Welcome to my page! 
+
+I am a Political Scientist specialized in Democracy, Comparative Political Behavior, and EU Politics, using mixed-methods and a computational (text analysis) approach. I was previously a post-doctoral researcher at Aarhus University in Denmark and completed my PhD in Political Science at the European University Institute in Florence, Italy. 
 
 In my dissertation, I studied the consequences of party polarization in European multiparty systems for citizens’ political behavior and citizens' relationship toward parties. My thesis assesses the effect of party polarization on electoral participation, and whether this electoral mobilization is concentrated among (affectively polarized) partisans or a broader range of voters.
 
-As part of the [DEMNORM](https://demnorm.github.io/) project, my current research focuses on challenges to democracy and, in particular, on the role of elites in shifting democratic norms. 
+As part of the [DEMNORM](https://demnorm.github.io/) project, my latest research has focused on challenges to democracy and, in particular, on the role of political elites and their rhetoric. 
 
-In general, I have a keen interest in research methods and I am specialized in mixed-methods designs. In my research, I use advanced quantitative methods such as multilevel modeling and experimental designs, and gained expertise in qualitative analysis using focus groups data. 
+In general, I have a keen interest in research methods. In my research, I use advanced computational text analyses methods (NLP, AI) programmed in R and Python; quantitative methods (multilevel modeling and experimental designs), and qualitative designs and analysis using focus groups data. 
 
 
 {{< icon name="download" pack="fas" >}} You can download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}} here.
