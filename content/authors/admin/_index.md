@@ -25,11 +25,12 @@ role: Researcher - Analyst
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:morgan.lcj@ps.au.dk"
+  link: "mailto:morgan.lecorre@eui.eu"
 - display:
     header: true
   icon: bluesky
   icon_pack: fab
+  label: Follow me on Twitter
   link: https://bsky.app/profile/morganlcj.bsky.social
 - icon: github
   icon_pack: fab
