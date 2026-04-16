@@ -30,7 +30,7 @@ social:
     header: true
   icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/morgan-le-corre-juratic-phd-a3887b129
+  link: https://www.linkedin.com/in/morgan-le-corre-juratic-phd-a3887b129/
 - icon: github
   icon_pack: fab
   link: https://github.com/Morgan-LCJ
