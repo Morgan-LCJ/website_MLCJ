@@ -28,9 +28,8 @@ social:
   link: "mailto:morgan.lecorre@eui.eu"
 - display:
     header: true
-  icon: bluesky
-  icon_pack: brands
-  label: Follow me on Twitter
+  icon: linkedin
+  icon_pack: fab
   link: https://bsky.app/profile/morganlcj.bsky.social
 - icon: github
   icon_pack: fab
