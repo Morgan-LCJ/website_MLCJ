@@ -28,7 +28,7 @@ social:
   link: "mailto:morgan.lecorre@eui.eu"
 - display:
     header: true
-  icon: bluesky
+- icon: bluesky
   icon_pack: fab
   label: Follow me on Twitter
   link: https://bsky.app/profile/morganlcj.bsky.social
@@ -54,4 +54,4 @@ As part of the [DEMNORM](https://demnorm.github.io/) project, my latest research
 In general, I have a keen interest in research methods. In my research, I use advanced computational text analyses methods (NLP, AI) programmed in R and Python; quantitative methods (multilevel modeling and experimental designs), and qualitative designs and analysis using focus groups data. 
 
 
-{{< icon name="download" pack="fas" >}} You can download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}} here.
+{{< icon name="download" pack="fas" >}} You can download my {{< staticref "files/cv2.pdf" "newtab" >}}general CV{{< /staticref >}} an my {{< staticref "files/cv.pdf" "newtab" >}}Academic CV{{< /staticref >}} at the following links.
